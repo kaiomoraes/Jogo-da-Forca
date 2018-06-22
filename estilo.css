@@ -1,0 +1,20 @@
+.p{
+	font-family:arial;
+	font-size:36px;
+	color:red;
+}
+
+.resposta{
+	top:430px;
+	left:-70px;
+}
+
+.msg{
+	top:200px;
+	left:-100px;
+}
+
+.setup{
+	top:250px;
+}
+
